@@ -1,0 +1,4 @@
+rencana belajar steady
+-php
+-git
+-github
