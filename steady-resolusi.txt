@@ -2,3 +2,5 @@ steady resolusi
 - git
 -github
 -bootstrap
+-react
+-js
