@@ -4,3 +4,5 @@ rencana belajar steady
 -github menggunakan
 -botstrap
 -mysql
+-react
+-java
