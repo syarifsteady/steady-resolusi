@@ -3,3 +3,4 @@ rencana belajar steady
 -git belajar
 -github menggunakan
 -framework
+-sql
