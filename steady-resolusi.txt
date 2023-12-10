@@ -1,0 +1,4 @@
+steady resolusi
+- git
+-github
+-bootstrap
